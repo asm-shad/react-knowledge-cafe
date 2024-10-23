@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/xsWbKc8/1.jpg",
+    "title": "The Art of Coding",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/CWjqd1S/boy1.png",
+    "posted_date": "2024-10-01",
+    "reading_time": 8,
+    "hashtags": ["#coding", "#programming", "#development"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/gSPdtNQ/2.png",
+    "title": "Mastering JavaScript",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/PmHcrTL/boy2.jpg",
+    "posted_date": "2024-09-25",
+    "reading_time": 10,
+    "hashtags": ["#javascript", "#webdevelopment", "#frontend"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/q5vrnBK/3.png",
+    "title": "React for Beginners",
+    "author": "Sam Lee",
+    "author_img": "https://i.ibb.co.com/pr4tbv2/girl1.jpg",
+    "posted_date": "2024-09-20",
+    "reading_time": 6,
+    "hashtags": ["#react", "#frontend", "#ui"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/Ht0fM6x/4.jpg",
+    "title": "UX Design Principles",
+    "author": "Emily Turner",
+    "author_img": "https://i.ibb.co.com/wyN9xtB/girl2.jpg",
+    "posted_date": "2024-10-10",
+    "reading_time": 7,
+    "hashtags": ["#uxdesign", "#userexperience", "#design"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/Ht0fM6x/4.jpg",
+    "title": "Python Data Science",
+    "author": "Michael Brown",
+    "author_img": "https://i.ibb.co.com/wyN9xtB/girl2.jpg",
+    "posted_date": "2024-08-30",
+    "reading_time": 12,
+    "hashtags": ["#python", "#datascience", "#machinelearning"]
+  }
+]
